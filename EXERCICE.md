@@ -8,7 +8,7 @@ Tâches principales requises:
   - [ ] Déployer le service en local sur Kubernetes (et non sur Digital Ocean)
 - [ ] Y intégrer le code de https://github.com/schmidtbri/logging-for-ml-models
   - [ ] Ne pas oublier de mettre à jour le fichier [README](README.md)
-- [ ] Réécrire le fichier [post.md](blog_post/post.md]), en fonction de vos précédentes experimentations.
+- [ ] Réécrire le fichier [post.md](blog_post/post.md), en fonction de vos précédentes experimentations.
 
 **Date de remise : 16 novembre, à 18 h**
 
